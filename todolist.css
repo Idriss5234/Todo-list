@@ -1,0 +1,23 @@
+body{
+    background-image: url("https://img.freepik.com/premium-photo/nature-green-leaf-garden-summer-natural-green-leaves-plants-using-as-spring-background-cover-page-greenery-environment-ecology-wallpaper_103077-222.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;  
+    background-position: center;
+    font-family: 'Pacifico', cursive;
+    color:black;
+}
+.container{
+ display: flex;
+ flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+}
+li{
+   
+}
+#butona{
+        width:75px ;
+        height: 20px;
+        margin-top: 10px;
+}
